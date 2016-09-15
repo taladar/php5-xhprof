@@ -1,0 +1,1 @@
+php5-xhprof: hardening-no-fortify-functions usr/lib/php5/20100525+lfs/xhprof.so

@@ -1,1 +1,1 @@
-php5-xhprof binary: hardening-no-fortify-functions usr/lib/php5/20100525+lfs/xhprof.so
+php5-xhprof binary: hardening-no-fortify-functions usr/lib/php5/*/xhprof.so
